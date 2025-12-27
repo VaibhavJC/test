@@ -1,5 +1,5 @@
 def initialize:
   a = 1;
-  name = "Vaibhav";
+  name = "Naman";
   isAvailable = true;
   
